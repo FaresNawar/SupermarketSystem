@@ -1,5 +1,5 @@
 # Supermarket System with Python
-![banner](https://github.com/FaresNawar/SupermarketSystem/blob/main/assets/images/super@2x.png)
+![banner](https://github.com/FaresNawar/SupermarketSystem/blob/main/assets/images/super.png)
 
 A simple GUI/CLI supermarket management system featuring products, invoices, printing receipts, editing products and more using Python and the built-in Tkinter library for graphical aspects.
 Made as part of an assignment for college.
